@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=40)
 
 <div align=center>
 This is for practice! :blush:
