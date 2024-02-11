@@ -16,9 +16,9 @@ This is for practice! :blush:
 ### 제목3
 
 # (2) 줄 바꿈
-줄 바꾸려면 Enter 2번
+1. 줄 바꾸려면 Enter 2번
+2. <br/>
 
-하기
 
 # (3) 구분선
 -----
