@@ -17,7 +17,7 @@ This is for practice! :blush:
 
 # (2) 줄 바꿈
 1. 줄 바꾸려면 Enter 2번
-2. <br/>
+2. \<br/>
 
 
 # (3) 구분선
@@ -36,3 +36,6 @@ This is for practice! :blush:
 <div align=center>
 내용 입력
 </div>
+
+# (7) 기호 출력
+기호 앞에 역슬래시 넣기
